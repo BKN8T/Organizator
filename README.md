@@ -20,15 +20,15 @@ This script organizes files in a directory based on their type, creation date, a
    Clone or download this script:
 
    ```bash
-   git clone https://github.com/kullaniciadi/dosya-duzenleyici.git
-   cd dosya-duzenleyici
+   git clone https://github.com/BKN8T/Organizator
+   cd Organizator/bin
    ```
 
 2. Betiğe çalıştırma izni verin:
    Give execute permission to the script:
 
    ```bash
-   chmod +x kullanici_dostu_dosya_duzenleyici.sh
+   chmod +x main.sh
    ```
 
 ## Kullanım / Usage
@@ -38,7 +38,7 @@ Betik, bir klasördeki dosyaları düzenlemek için kullanılır. Betiği çalı
 The script is used to organize files in a directory. To run the script:
 
 ```bash
-bash kullanici_dostu_dosya_duzenleyici.sh /path/to/klasor
+bash main.sh
 ```
 
 ### Parametreler / Parameters:
@@ -49,7 +49,7 @@ bash kullanici_dostu_dosya_duzenleyici.sh /path/to/klasor
 ### Örnek / Example:
 
 ```bash
-bash kullanici_dostu_dosya_duzenleyici.sh /home/kullanici/Belgeler
+bash main.sh /home/kullanici/Belgeler
 ```
 
 ### Kullanıcı Etkileşimi / User Interaction
