@@ -78,5 +78,6 @@ If you want to contribute, please send a pull request or report an issue.
 ## 📜 Lisans / License
 
 📄 Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
-For more information, see the `LICENSE` file.
+
+📄 For more information, see the `LICENSE` file.
 ---
